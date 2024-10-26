@@ -1,0 +1,101 @@
+Rank,Name,Industry,Revenue (USD millions),Revenue growth,Employees,Headquarters,Growth Status,Revenue per Employee,Growth Rate Category,Revenue Share by Industry
+1.0,Walmart,Retail,648125.0,0.06,2100000.0,"Bentonville, Arkansas",Positive,0.3086309523809524,Stable,5.297472113738984
+2.0,Amazon,Retail and cloud computing,574785.0,0.11900000000000001,1525000.0,"Seattle, Washington",Positive,0.3769081967213115,Stable,4.698025086048929
+3.0,Apple,Electronics industry,383482.0,-0.027999999999999997,161000.0,"Cupertino, California",Negative,2.3818757763975156,Declining,3.1344033961363214
+4.0,UnitedHealth Group,Healthcare,371622.0,0.146,440000.0,"Minnetonka, Minnesota",Positive,0.8445954545454546,Stable,3.0374652757599363
+5.0,Berkshire Hathaway,Conglomerate,364482.0,0.207,396500.0,"Omaha, Nebraska",Positive,0.9192484237074401,Stable,2.979106238703664
+6.0,CVS Health,Healthcare,357776.0,0.109,259500.0,"Woonsocket, Rhode Island",Positive,1.3787129094412331,Stable,2.9242945156645384
+7.0,ExxonMobil,Petroleum industry,344582.0,-0.16699999999999998,61500.0,"Spring, Texas",Negative,5.602959349593496,Declining,2.8164529001294607
+8.0,Alphabet,Technology and cloud computing,307394.0,0.087,182502.0,"Mountain View, California",Positive,1.684332226496148,Stable,2.5124954953607426
+9.0,McKesson Corporation,Health,276711.0,0.048,48000.0,"Irving, Texas",Positive,5.7648125,Stable,2.261706933176205
+10.0,Cencora,Pharmacy wholesale,262173.0,0.099,44000.0,"Conshohocken, Pennsylvania",Positive,5.958477272727273,Stable,2.1428800871364175
+11.0,Costco,Retail,242290.0,0.068,316000.0,"Issaquah, Washington",Positive,0.766740506329114,Stable,1.9803656986504432
+12.0,JPMorgan Chase,Financial services,239425.0,0.547,309926.0,"New York City, New York",Positive,0.7725231184218169,Stable,1.956948522016519
+13.0,Microsoft,Technology and cloud computing,211915.0,0.069,221000.0,"Redmond, Washington",Positive,0.9588914027149321,Stable,1.7320945851232352
+14.0,Cardinal Health,Healthcare,205012.0,0.13,47520.0,"Dublin, Ohio",Positive,4.31422558922559,Stable,1.6756726757675706
+15.0,Chevron Corporation,Petroleum industry,200949.0,-0.184,45600.0,"Houston, Texas",Negative,4.4067763157894735,Declining,1.642463604680787
+16.0,Cigna,Health insurance,195265.0,0.08199999999999999,71413.0,"Bloomfield, Connecticut",Positive,2.734306078725162,Stable,1.5960052340046174
+17.0,Ford Motor Company,Automotive industry,176191.0,0.115,177000.0,"Dearborn, Michigan",Positive,0.9954293785310735,Stable,1.4401032350114336
+18.0,Bank of America,Financials,171912.0,0.494,212985.0,"Charlotte, North Carolina",Positive,0.8071554334812311,Stable,1.4051286804506788
+19.0,General Motors,Automotive industry,171842.0,0.096,163000.0,"Detroit, Michigan",Positive,1.054245398773006,Stable,1.4045565330285585
+20.0,Elevance Health,Healthcare,171340.0,0.094,104900.0,"Indianapolis, Indiana",Positive,1.6333651096282173,Stable,1.4004534186584958
+21.0,Citigroup,Financials,156820.0,0.551,237925.0,"New York City, New York",Positive,0.6591152674162026,Stable,1.281773696241539
+22.0,Centene,Healthcare,153999.0,0.065,67700.0,"St. Louis, Missouri",Positive,2.2747267355982275,Stable,1.2587161551300903
+23.0,The Home Depot,Retail,152669.0,-0.03,463100.0,"Atlanta, Georgia",Negative,0.32966745843230405,Declining,1.2478453541098045
+24.0,Marathon Petroleum,Petroleum industry,150307.0,-0.165,18200.0,"Findlay, Ohio",Negative,8.258626373626374,Declining,1.2285394653805448
+25.0,Kroger,Retail,150039.0,-0.036000000000000004,414000.0,"Cincinnati, Ohio",Negative,0.36241304347826087,Declining,1.226348958107284
+26.0,Phillips 66,Petroleum industry,149890.0,-0.147,14000.0,"Houston, Texas",Negative,10.706428571428571,Declining,1.225131101451628
+27.0,Fannie Mae,Financials,141240.0,0.162,8100.0,"Washington, D.C.",Positive,17.437037037037037,Stable,1.1544300271467605
+28.0,Walgreens Boots Alliance,Pharmaceutical industry,139081.0,0.048,268500.0,"Deerfield, Illinois",Positive,0.5179925512104283,Stable,1.1367833659416495
+29.0,Valero Energy,Petroleum industry,139001.0,-0.188,9987.0,"San Antonio, Texas",Negative,13.918193651747272,Declining,1.136129483173512
+30.0,Meta Platforms,Technology,134902.0,0.157,67317.0,"Menlo Park, California",Positive,2.0039811637476417,Stable,1.102626164841067
+31.0,Verizon Communications,Telecommunications,133974.0,-0.021,105400.0,"New York City, New York",Negative,1.271100569259962,Declining,1.095041124730672
+32.0,AT&T,Conglomerate and telecommunications,122428.0,0.013999999999999999,150470.0,"Dallas, Texas",Positive,0.8136372698876853,Stable,1.000669494219227
+33.0,Comcast,Telecommunications,121572.0,0.001,186000.0,"Philadelphia, Pennsylvania",Positive,0.6536129032258065,Stable,0.9936729486001555
+34.0,Wells Fargo,Financials,115340.0,0.392,226000.0,"San Francisco, California",Positive,0.5103539823008849,Stable,0.9427354809622441
+35.0,Goldman Sachs,Financials,108418.0,0.578,45300.0,"New York City, New York",Positive,2.3933333333333335,Stable,0.8861582744491466
+36.0,Freddie Mac,Financials,108050.0,0.24600000000000002,8020.0,"McLean, Virginia",Positive,13.472568578553616,Stable,0.8831504137157142
+37.0,Target Corporation,Retail,107412.0,-0.016,415000.0,"Minneapolis, Minnesota",Negative,0.25882409638554216,Declining,0.8779356986398176
+38.0,Humana,Health insurance,106374.0,0.145,67600.0,"Louisville, Kentucky",Positive,1.5735798816568047,Stable,0.8694515697232335
+39.0,State Farm,Financials,104199.0,0.166,65054.0,"Bloomington, Illinois",Positive,1.601730869738986,Stable,0.851674131964495
+40.0,Tesla,Automotive and energy,96773.0,0.188,140473.0,"Austin, Texas",Positive,0.6889081887622532,Stable,0.7909774640121315
+41.0,Morgan Stanley,Financials,96194.0,0.45899999999999996,80006.0,"New York City, New York",Positive,1.2023348248881334,Stable,0.7862449874777364
+42.0,Johnson & Johnson,Pharmaceutical industry,95195.0,0.003,131900.0,"New Brunswick, New Jersey",Positive,0.7217210007581502,Stable,0.7780796264106192
+43.0,Archer Daniels Midland,Food industry,93935.0,-0.075,41008.0,"Chicago, Illinois",Negative,2.290650604760047,Declining,0.7677809728124536
+44.0,PepsiCo,Beverage,91471.0,0.059000000000000004,318000.0,"Purchase, New York",Positive,0.2876446540880503,Stable,0.7476413835538185
+45.0,United Parcel Service,Transportation,90958.0,-0.09300000000000001,382550.0,"Atlanta, Georgia",Negative,0.2377676120768527,Declining,0.7434483603031368
+46.0,FedEx,Transportation,90155.0,-0.036000000000000004,446400.0,"Memphis, Tennessee",Negative,0.20196012544802866,Declining,0.7368850120179565
+47.0,The Walt Disney Company,Media,88898.0,0.075,199125.0,"Burbank, California",Positive,0.4464431889516635,Stable,0.7266108790235961
+48.0,Dell Technologies,Technology,88425.0,-0.136,120000.0,"Round Rock, Texas",Negative,0.736875,Declining,0.7227447971569831
+49.0,Lowe's,Retail,86377.0,-0.11,226000.0,"Mooresville, North Carolina",Negative,0.3821991150442478,Declining,0.7060053982926631
+50.0,Procter & Gamble,Consumer products manufacturing,82006.0,0.023,107000.0,"Cincinnati, Ohio",Positive,0.766411214953271,Stable,0.6702788785485503
+51.0,Energy Transfer Partners,Petroleum industry,78586.0,-0.126,13786.0,"Dallas, Texas",Negative,5.700420716669084,Declining,0.642325390210672
+52.0,Boeing,Aerospace and defense,77794.0,0.168,171000.0,"Arlington County, Virginia",Positive,0.45493567251461986,Stable,0.6358519508061108
+53.0,Albertsons,Retail,77650.0,0.08,198650.0,"Boise, Idaho",Positive,0.39088849735716086,Stable,0.6346749618234633
+54.0,Sysco,Food service,76325.0,0.11199999999999999,71750.0,"Houston, Texas",Positive,1.0637630662020905,Stable,0.6238450284761858
+55.0,RTX Corporation,Conglomerate,68920.0,0.027999999999999997,185000.0,"Arlington County, Virginia",Positive,0.37254054054054053,Stable,0.5633200047504583
+56.0,General Electric,Conglomerate,67954.0,-0.11199999999999999,125000.0,"Boston, Massachusetts",Negative,0.543632,Declining,0.555424370325198
+57.0,Lockheed Martin,Aerospace and defense,67571.0,0.024,122000.0,"Bethesda, Maryland",Positive,0.5538606557377049,Stable,0.5522939065727397
+58.0,American Express,Financial,67364.0,0.21100000000000002,74600.0,"New York City, New York",Positive,0.9030026809651475,Stable,0.550601984910184
+59.0,Caterpillar,Machinery,67060.0,0.128,113200.0,"Deerfield, Illinois",Positive,0.5924028268551237,Stable,0.5481172303912614
+60.0,MetLife,Financials,66905.0,-0.043,45000.0,"New York City, New York",Negative,1.4867777777777778,Declining,0.546850332527995
+61.0,HCA Healthcare,Healthcare,64968.0,0.079,265000.0,"Nashville, Tennessee",Positive,0.2451622641509434,Stable,0.5310181960044658
+62.0,Progressive Corporation,Insurance,62109.0,0.252,61432.0,"Mayfield Village, Ohio",Positive,1.0110203151452013,Stable,0.5076500605781518
+63.0,IBM,Technology and cloud computing,61860.0,-0.163,296600.0,"Armonk, New York",Negative,0.20856372218476063,Declining,0.5056148504623237
+64.0,John Deere,Agriculture manufacturing,61251.0,0.165,82956.0,"Moline, Illinois",Positive,0.7383552726746709,Stable,0.500637167889877
+65.0,Nvidia,Technology,60922.0,1.2590000000000001,29600.0,"Santa Clara, California",Positive,2.0581756756756757,Stable,0.49794807500591154
+66.0,StoneX Group,Financials,60856.0,-0.078,4137.0,"New York City, New York",Negative,14.71017645636935,Declining,0.4974086217221981
+67.0,Merck & Co.,Pharmaceutical industry,60115.0,0.013999999999999999,71000.0,"Kenilworth, New Jersey",Positive,0.8466901408450704,Stable,0.49135203258232446
+68.0,ConocoPhillips,Petroleum industry,58574.0,-0.287,9900.0,"Houston, Texas",Negative,5.916565656565656,Declining,0.47875661576107575
+69.0,Pfizer,Pharmaceutical industry,58496.0,-0.41700000000000004,88000.0,"New York City, New York",Negative,0.6647272727272727,Declining,0.47811908006214177
+70.0,Delta Air Lines,Airline,58048.0,0.14800000000000002,103000.0,"Atlanta, Georgia",Positive,0.5635728155339805,Stable,0.47445733656057176
+71.0,TD Synnex,Infotech,57555.0,-0.077,28000.0,"Clearwater, Florida",Negative,2.0555357142857145,Declining,0.4704277840019244
+72.0,Publix,Retail,57534.0,0.047,253000.0,"Lakeland, Florida",Positive,0.22740711462450594,Stable,0.4702561397752883
+73.0,Allstate,Insurance,57094.0,0.111,53200.0,"Northfield Township, Cook County, Illinois",Positive,1.0731954887218045,Stable,0.46665978455053203
+74.0,Cisco,Telecom hardware manufacturing,56998.0,0.106,84900.0,"San Jose, California",Positive,0.6713545347467609,Stable,0.465875125228767
+75.0,Nationwide Mutual Insurance Company,Financial,54609.0,0.061,24118.0,"Columbus, Ohio",Positive,2.264242474500373,Stable,0.44634855106526083
+76.0,Charter Communications,Telecommunications,54607.0,0.011000000000000001,101100.0,"Stamford, Connecticut",Positive,0.5401285855588526,Stable,0.44633220399605744
+77.0,AbbVie,Pharmaceutical industry,54317.0,-0.064,50000.0,"Lake Bluff, Illinois",Negative,1.08634,Declining,0.4439618789615589
+78.0,New York Life Insurance Company,Insurance,54317.0,0.142,15384.0,"New York City, New York",Positive,3.530746229849194,Stable,0.4439618789615589
+79.0,Intel,Technology,54228.0,-0.14,124800.0,"Santa Clara, California",Negative,0.43451923076923077,Declining,0.44323443438200594
+80.0,TJX,Retail,49936.0,0.028999999999999998,329000.0,"Framingham, Massachusetts",Positive,0.15178115501519757,Stable,0.408153623871429
+81.0,Prudential Financial,Financials,53979.0,-0.10099999999999999,40366.0,"Newark, New Jersey",Negative,1.3372392607640093,Declining,0.441199224266178
+82.0,HP,Technology,53718.0,-0.145,58000.0,"Palo Alto, California",Negative,0.9261724137931034,Declining,0.4390659317351294
+83.0,United Airlines,Airline,53717.0,0.195,103300.0,"Chicago, Illinois",Positive,0.5200096805421104,Stable,0.4390577582005277
+84.0,Performance Food Group,Food processing,53355.0,0.131,34825.0,"Richmond, Virginia",Positive,1.5320890165111272,Stable,0.43609893867470556
+85.0,Tyson Foods,Food processing,52788.0,-0.008,139000.0,"Springdale, Arkansas",Negative,0.3797697841726619,Declining,0.43146454455553096
+86.0,American Airlines,Airline,52788.0,0.078,132100.0,"Fort Worth, Texas",Positive,0.39960635881907647,Stable,0.43146454455553096
+87.0,Liberty Mutual,Insurance,52612.0,0.053,45000.0,"Boston, Massachusetts",Positive,1.1691555555555555,Stable,0.4300260024656284
+88.0,Nike,Apparel,51217.0,0.096,83700.0,"Beaverton, Oregon",Positive,0.6119115890083632,Stable,0.4186239216962307
+89.0,Oracle Corporation,Technology,49954.0,0.177,164000.0,"Austin, Texas",Positive,0.30459756097560975,Stable,0.40830074749426
+90.0,Enterprise Products,Petroleum industry,49715.0,-0.146,7500.0,"Houston, Texas",Negative,6.628666666666667,Declining,0.40634727272444915
+91.0,Capital One Financial,Financials,49484.0,0.29,51987.0,"Richmond, Virginia",Positive,0.9518533479523728,Stable,0.4044591862314521
+92.0,Plains All American Pipeline,Petroleum industry,48712.0,-0.151,4200.0,"Houston, Texas",Negative,11.598095238095238,Declining,0.3981492175189252
+93.0,World Kinect Corporation,Energy trading,47711.0,-0.192,5289.0,"Doral, Florida",Negative,9.020797882397428,Declining,0.3899675093826047
+94.0,AIG,Insurance,46802.0,-0.171,25200.0,"New York City, New York",Negative,1.8572222222222223,Declining,0.3825377664296423
+95.0,Coca-Cola,Beverage,45754.0,0.064,79100.0,"Atlanta, Georgia",Positive,0.5784323640960809,Stable,0.37397190216704107
+96.0,TIAA,Financials,45735.0,0.11800000000000001,16023.0,"New York City, New York",Positive,2.854334394308182,Stable,0.3738166050096084
+97.0,CHS,Agriculture cooperative,45590.0,-0.046,10609.0,"Inver Grove Heights, Minnesota",Negative,4.297294749740786,Declining,0.3726314424923592
+98.0,Bristol-Myers Squibb,Pharmaceutical industry,45006.0,-0.025,34100.0,"New York City, New York",Negative,1.3198240469208211,Declining,0.3678580982849554
+99.0,Dow Chemical Company,Chemical industry,44622.0,-0.21600000000000003,35900.0,"Midland, Michigan",Negative,1.2429526462395544,Declining,0.3647194609978954
+100.0,Best Buy,Retail,43452.0,-0.061,85000.0,"Richfield, Minnesota",Negative,0.5112,Declining,0.35515642551388443
